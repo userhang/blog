@@ -1,0 +1,48 @@
+[Sun Jan 14 2018 16:37:20 GMT+0800 (中国标准时间)]/archive
+MongoError: server instance in invalid state undefined
+    at Function.MongoError.create (D:\blog\node_modules\mongodb-core\lib\error.js:29:11)
+    at Server.connect (D:\blog\node_modules\mongodb-core\lib\topologies\server.js:341:22)
+    at Server.connect (D:\blog\node_modules\mongodb\lib\server.js:357:17)
+    at open (D:\blog\node_modules\mongodb\lib\db.js:222:19)
+    at Db.open (D:\blog\node_modules\mongodb\lib\db.js:245:44)
+    at Function.Post.getArchive (D:\blog\models\post.js:236:10)
+    at D:\blog\routes\index.js:197:8
+    at callbacks (D:\blog\node_modules\express\lib\router\index.js:164:37)
+    at param (D:\blog\node_modules\express\lib\router\index.js:138:11)
+    at pass (D:\blog\node_modules\express\lib\router\index.js:145:5)
+[Sun Jan 14 2018 16:37:39 GMT+0800 (中国标准时间)]/tags
+MongoError: server instance in invalid state undefined
+    at Function.MongoError.create (D:\blog\node_modules\mongodb-core\lib\error.js:29:11)
+    at Server.connect (D:\blog\node_modules\mongodb-core\lib\topologies\server.js:341:22)
+    at Server.connect (D:\blog\node_modules\mongodb\lib\server.js:357:17)
+    at open (D:\blog\node_modules\mongodb\lib\db.js:222:19)
+    at Db.open (D:\blog\node_modules\mongodb\lib\db.js:245:44)
+    at Function.Post.getTags (D:\blog\models\post.js:266:10)
+    at D:\blog\routes\index.js:214:11
+    at callbacks (D:\blog\node_modules\express\lib\router\index.js:164:37)
+    at param (D:\blog\node_modules\express\lib\router\index.js:138:11)
+    at pass (D:\blog\node_modules\express\lib\router\index.js:145:5)
+[Sun Jan 14 2018 16:37:47 GMT+0800 (中国标准时间)]/u/big/2018-1-14/%E5%9B%BD%E5%AE%B6%E6%97%85%E6%B8%B8%E5%B1%80%E5%86%8D%E6%AC%A1%E6%8F%90%E7%A4%BA%E8%BF%91%E6%9C%9F%E6%9A%82%E5%8B%BF%E8%B5%B4%E5%8F%99%E5%88%A9%E4%BA%9A%E3%80%81%E4%BC%8A%E6%8B%89%E5%85%8B%E6%97%85%E6%B8%B8
+MongoError: server instance in invalid state undefined
+    at Function.MongoError.create (D:\blog\node_modules\mongodb-core\lib\error.js:29:11)
+    at Server.connect (D:\blog\node_modules\mongodb-core\lib\topologies\server.js:341:22)
+    at Server.connect (D:\blog\node_modules\mongodb\lib\server.js:357:17)
+    at open (D:\blog\node_modules\mongodb\lib\db.js:222:19)
+    at Db.open (D:\blog\node_modules\mongodb\lib\db.js:245:44)
+    at Function.Post.getOne (D:\blog\models\post.js:102:10)
+    at D:\blog\routes\index.js:250:8
+    at callbacks (D:\blog\node_modules\express\lib\router\index.js:164:37)
+    at param (D:\blog\node_modules\express\lib\router\index.js:138:11)
+    at param (D:\blog\node_modules\express\lib\router\index.js:135:11)
+[Sun Jan 14 2018 16:37:48 GMT+0800 (中国标准时间)]/u/big/2018-1-14/%E5%9B%BD%E5%AE%B6%E6%97%85%E6%B8%B8%E5%B1%80%E5%86%8D%E6%AC%A1%E6%8F%90%E7%A4%BA%E8%BF%91%E6%9C%9F%E6%9A%82%E5%8B%BF%E8%B5%B4%E5%8F%99%E5%88%A9%E4%BA%9A%E3%80%81%E4%BC%8A%E6%8B%89%E5%85%8B%E6%97%85%E6%B8%B8
+MongoError: server instance in invalid state undefined
+    at Function.MongoError.create (D:\blog\node_modules\mongodb-core\lib\error.js:29:11)
+    at Server.connect (D:\blog\node_modules\mongodb-core\lib\topologies\server.js:341:22)
+    at Server.connect (D:\blog\node_modules\mongodb\lib\server.js:357:17)
+    at open (D:\blog\node_modules\mongodb\lib\db.js:222:19)
+    at Db.open (D:\blog\node_modules\mongodb\lib\db.js:245:44)
+    at Function.Post.getOne (D:\blog\models\post.js:102:10)
+    at D:\blog\routes\index.js:250:8
+    at callbacks (D:\blog\node_modules\express\lib\router\index.js:164:37)
+    at param (D:\blog\node_modules\express\lib\router\index.js:138:11)
+    at param (D:\blog\node_modules\express\lib\router\index.js:135:11)
